@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../app_colors.dart';
+import '../themes/app_colors.dart';
 
 class SubscriptionCardChip extends StatelessWidget {
   final String text;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../subscription_model.dart';
+import '../models/subscription_model.dart';
 import 'selected_subscription_card.dart';
 import 'subscription_card_chip.dart';
 import 'unselected_subscription_card.dart';

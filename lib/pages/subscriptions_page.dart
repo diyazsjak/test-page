@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-import 'app_colors.dart';
-import 'subscription_model.dart';
-import 'widgets/blured_containers.dart';
-import 'widgets/buy_subscription_button.dart';
-import 'widgets/page_footer.dart';
-import 'widgets/page_header.dart';
-import 'widgets/subscription_card.dart';
+import '../themes/app_colors.dart';
+import '../models/subscription_model.dart';
+import '../widgets/blured_containers.dart';
+import '../widgets/buy_subscription_button.dart';
+import '../widgets/page_footer.dart';
+import '../widgets/page_header.dart';
+import '../widgets/subscription_card.dart';
 
 class SubscriptionsPage extends StatefulWidget {
   const SubscriptionsPage({super.key});

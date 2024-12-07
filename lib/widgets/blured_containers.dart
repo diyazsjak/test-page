@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-import '../app_colors.dart';
+import '../themes/app_colors.dart';
 
 class BlurredContainer1 extends StatelessWidget {
   const BlurredContainer1({super.key});

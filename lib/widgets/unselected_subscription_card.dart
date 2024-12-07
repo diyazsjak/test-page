@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../subscription_model.dart';
+import '../models/subscription_model.dart';
 import 'subscription_card_header.dart';
 
 class UnselectedSubscriptionCard extends StatelessWidget {

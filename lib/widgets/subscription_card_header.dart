@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../app_colors.dart';
-import '../subscription_model.dart';
+import '../themes/app_colors.dart';
+import '../models/subscription_model.dart';
 
 class SubscriptionCardHeader extends StatelessWidget {
   final SubscriptionModel subscription;

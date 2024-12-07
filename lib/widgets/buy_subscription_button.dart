@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../app_colors.dart';
+import '../themes/app_colors.dart';
 
 class BuySubscriptionButton extends StatelessWidget {
   const BuySubscriptionButton({super.key});
